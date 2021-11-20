@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CoinGeckoTest/static/css/main.ad8fb7c5.chunk.css",
-    "main.js": "/CoinGeckoTest/static/js/main.f78d204a.chunk.js",
-    "main.js.map": "/CoinGeckoTest/static/js/main.f78d204a.chunk.js.map",
+    "main.js": "/CoinGeckoTest/static/js/main.fd63cb29.chunk.js",
+    "main.js.map": "/CoinGeckoTest/static/js/main.fd63cb29.chunk.js.map",
     "runtime-main.js": "/CoinGeckoTest/static/js/runtime-main.7d1a0c4b.js",
     "runtime-main.js.map": "/CoinGeckoTest/static/js/runtime-main.7d1a0c4b.js.map",
     "static/js/2.6e8f3767.chunk.js": "/CoinGeckoTest/static/js/2.6e8f3767.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7d1a0c4b.js",
     "static/js/2.6e8f3767.chunk.js",
     "static/css/main.ad8fb7c5.chunk.css",
-    "static/js/main.f78d204a.chunk.js"
+    "static/js/main.fd63cb29.chunk.js"
   ]
 }
